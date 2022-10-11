@@ -11,6 +11,7 @@ root.render(
 
     <App FloorPlan = {FloorPlan} />
 
+    // <Post title={blogPost.title} author={blogPost.author} body={blogPost.body} comments={blogPost.comments}></Post>
 
 );
 
