@@ -1,5 +1,8 @@
 import React, {Component} from 'react'
-import FloorPlan from './index'
+import FloorPlan from './FloorPlan'
+
+console.log(FloorPlan)
+
 
 export default class App extends Component {
   render() {

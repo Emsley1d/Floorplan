@@ -4,6 +4,13 @@ import LivingRoom from './LivingRoom';
 import Bedroom from './Bedroom';
 import Bathroom from './Bathroom';
 
+// console.log(Kitchen)
+// console.log(LivingRoom)
+// console.log(Bedroom)
+// console.log(Bathroom)
+
+//! EVERYTHING SUCCESFULLY LINKED
+
 class FloorPlan extends Component {
   render() {
     return (
